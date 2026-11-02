@@ -234,6 +234,7 @@ Fraud-Risk-Analysis-Dashboard
 │
 └── README.md
 ```
+<img width="1322" height="577" alt="Screenshot 2026-11-02 121144" src="https://github.com/user-attachments/assets/cae5023f-f39a-43b9-aee2-6ca0ab37a596" />
 
 
 
@@ -252,6 +253,8 @@ Fraud-Risk-Analysis-Dashboard
 ✔ Interactive Filtering
 
 ✔ Executive-Level Reporting
+
+
 
 
 
