@@ -221,7 +221,8 @@ SWITCH(
 Fraud-Risk-Analysis-Dashboard
 │
 ├── Dataset
-│   └── fraud_data.csv
+│   └── fraud_data.csv  <img width="1322" height="577" alt="Screenshot 2026-11-02 121144" src="https://github.com/user-attachments/assets/38886857-4932-4460-8fd3-ef8787475706" />
+
 │
 ├── PowerBI
 │   └── Fraud_Risk_Analysis.pbix
